@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+    <string name="action_view_all">View All</string>
+    <string name="welcome">Welcome</string>
+    <string name="all_your_tasks_that_are_due_as_of_today_will_show_up_here">All your tasks that are due as of today will show up here</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="your_one_stop_solution_for_all_family_office_service">Your one stop solution for all family office service</string>
+    <string name="explore">Explore</string>
+</resources>
